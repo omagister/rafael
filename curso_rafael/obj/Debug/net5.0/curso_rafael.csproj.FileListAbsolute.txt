@@ -1,0 +1,16 @@
+C:\Users\j_ren\source\repos\rafael\curso_rafael\bin\Debug\net5.0\curso_rafael.exe
+C:\Users\j_ren\source\repos\rafael\curso_rafael\bin\Debug\net5.0\curso_rafael.deps.json
+C:\Users\j_ren\source\repos\rafael\curso_rafael\bin\Debug\net5.0\curso_rafael.runtimeconfig.json
+C:\Users\j_ren\source\repos\rafael\curso_rafael\bin\Debug\net5.0\curso_rafael.runtimeconfig.dev.json
+C:\Users\j_ren\source\repos\rafael\curso_rafael\bin\Debug\net5.0\curso_rafael.dll
+C:\Users\j_ren\source\repos\rafael\curso_rafael\bin\Debug\net5.0\ref\curso_rafael.dll
+C:\Users\j_ren\source\repos\rafael\curso_rafael\bin\Debug\net5.0\curso_rafael.pdb
+C:\Users\j_ren\source\repos\rafael\curso_rafael\obj\Debug\net5.0\curso_rafael.csproj.AssemblyReference.cache
+C:\Users\j_ren\source\repos\rafael\curso_rafael\obj\Debug\net5.0\curso_rafael.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\j_ren\source\repos\rafael\curso_rafael\obj\Debug\net5.0\curso_rafael.AssemblyInfoInputs.cache
+C:\Users\j_ren\source\repos\rafael\curso_rafael\obj\Debug\net5.0\curso_rafael.AssemblyInfo.cs
+C:\Users\j_ren\source\repos\rafael\curso_rafael\obj\Debug\net5.0\curso_rafael.csproj.CoreCompileInputs.cache
+C:\Users\j_ren\source\repos\rafael\curso_rafael\obj\Debug\net5.0\curso_rafael.dll
+C:\Users\j_ren\source\repos\rafael\curso_rafael\obj\Debug\net5.0\ref\curso_rafael.dll
+C:\Users\j_ren\source\repos\rafael\curso_rafael\obj\Debug\net5.0\curso_rafael.pdb
+C:\Users\j_ren\source\repos\rafael\curso_rafael\obj\Debug\net5.0\curso_rafael.genruntimeconfig.cache
